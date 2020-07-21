@@ -1,2 +1,3 @@
-I love git
-this is test
+
+line 2 
+line 3
